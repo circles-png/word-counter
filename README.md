@@ -1,5 +1,3 @@
-# vite project
+# word counter
 
-a template for vite
-
-use degit
+counts words
